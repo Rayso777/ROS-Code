@@ -1,5 +1,5 @@
 # ROS-Code
-Ros demos for playing, ORB-SLAM2、RTAB-MAP、KinectFusion、ORK、Gazebo World Model, etc
+ROS demos for playing, ORB-SLAM2、RTAB-MAP、KinectFusion、ORK、Gazebo World Model, etc
 
 
 1. CSDN 专栏 ： ROS机器人3D物体识别与三维重建 
